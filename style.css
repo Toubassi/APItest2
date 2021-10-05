@@ -1,0 +1,23 @@
+.header {
+  height: 300px;
+  background-color: red;
+  text-align: center;
+  padding-top: 40px;
+  font-size: 3em;
+}
+
+.p {
+  min-height: 500px;
+  background-color: green;
+  text-align: center;
+  padding: 40px;
+  font-size: 2em;
+}
+
+.footer {
+  height: 100px;
+  background-color: red;
+  text-align: center;
+  padding-bottom: 40px;
+  font-size: 3em;
+}
